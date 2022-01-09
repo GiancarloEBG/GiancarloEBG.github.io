@@ -7,4 +7,4 @@ My name is Giancarlo Buonomo, I have two Masters in Software Ingineering, one fr
 
 In this Project I will upload "My Portfolio" to include all the different courses, jobs and experiences that I have had.
 
-See yuu around!
+See you around!
