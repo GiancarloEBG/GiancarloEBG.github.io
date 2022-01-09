@@ -3,6 +3,8 @@
 
 Hello there!
 
-My name is Giancarlo Buonomo, I am a software engineer.
+My name is Giancarlo Buonomo, I have two Masters in Software Ingineering, one from Polytechnic University of Madrid and another one from Beijing University, China.
 
-In this Project I would upload my portfolio to include all the different courses, jobs and experiences that I have had.
+In this Project I will upload "My Portfolio" to include all the different courses, jobs and experiences that I have had.
+
+See yuu around!
